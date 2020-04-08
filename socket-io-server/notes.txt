@@ -1,0 +1,2 @@
+The socket is nothing more than the communication channel between client and server
+In our client we can listen to events with socket.on and remove the event listener with socket.off respectively
